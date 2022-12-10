@@ -6,7 +6,20 @@ package com.javarush.task.pro.task01.task0103;
 
 public class Solution {
     public static void main(String[] args) {
-        System.out.println("Сбрасываем Диего");
-        System.out.println("Сбрасываем сверхсекретный груз");
+        String drop = "Сбрасываем";
+        String diego = "Диего";
+        String secret = "сверхсекретный";
+        String cargo = "груз";
+
+      //  System.out.print(diego);
+        System.out.print(drop);
+     //   System.out.print("Амиго");
+        System.out.print(" Диего");
+        System.out.println();
+        System.out.print(drop);
+    //   System.out.print(secret);
+        System.out.print(" сверхсекретный ");
+     //   System.out.print("код");
+        System.out.print(cargo);
     }
 }
