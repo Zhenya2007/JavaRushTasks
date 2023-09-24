@@ -5,8 +5,14 @@ package com.javarush.task.pro.task07.task0701;
 */
 
 public class Solution {
-    public static void num(int) {
+    byte aByte;
+    short aShort;
+    char aChar;
+    int anInt;
+    long aLong;
 
-    }
+    float aFloat;
+    double aDouble;
 
+    boolean aBoolean;
 }
