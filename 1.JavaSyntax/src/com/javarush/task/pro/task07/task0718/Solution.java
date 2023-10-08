@@ -15,7 +15,7 @@ public class Solution {
 
     public static void changeObject(int[] array) {
         for (int i = 0; i < array.length; i++) {
-            array[i] = array[i] +1;
+            array[i] = array[i] + 1;
         }
         System.out.println("Значение всех элементов массива array внутри метода changeObject(int[]) равно " + Arrays.toString(array));
     }
